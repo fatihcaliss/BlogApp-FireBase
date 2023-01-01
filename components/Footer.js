@@ -16,7 +16,7 @@ export default function Footer(params) {
                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M37.2442 33.2776L49.5949 20.9075C51.2307 19.2795 53.8949 19.2795 55.5229 20.9075L62.7761 28.1685C64.408 29.7985 64.408 32.4724 62.7761 34.1042L50.4215 46.4705C48.7896 48.1004 46.1216 48.1004 44.4897 46.4705L37.2442 39.2153C35.6123 37.5834 35.6123 34.9095 37.2442 33.2776Z" fill="#4F46E5"></path>
                             </svg> */}
                         </div>
-                        <span className="text-zinc-900 dark:text-zinc-100 font-bold text-2xl">DevOpsTR</span>
+                        <span className="text-zinc-900 dark:text-zinc-100 font-bold text-2xl">BloG-App</span>
                     </h2>
                     <p className="text-sm">© 2022 FC. All rights reserved.</p>
                     <div className="flex space-x-4">
